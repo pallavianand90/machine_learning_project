@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 # machine_learning_project
->>>>>>> fbc52b63634f09b96e7872cfa305e149d261edba
 ## Start Machine Learning project.
 
 ### Software and account Requirement.
